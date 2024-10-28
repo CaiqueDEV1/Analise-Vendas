@@ -9,9 +9,9 @@ Este projeto realiza uma análise exploratória de dados (EDA) de um conjunto de
 - Carregamento e limpeza dos dados de vendas.
 - Análise exploratória com visualizações gráficas.
 -  Agrupamento de vendas por:
-  - Segmento: Identificação de país, tamanho e loja online de atuação.
-  - Produto: Análise das vendas por tipo de produto.
-  - País: Distribuição das vendas por localização geográfica.
+    - Segmento: Identificação de país, tamanho e loja online de atuação.
+    - Produto: Análise das vendas por tipo de produto.
+    - País: Distribuição das vendas por localização geográfica.
 
 ## 🔧 Tecnologias Utilizadas
 - Python: Linguagem principal para análise de dados.
